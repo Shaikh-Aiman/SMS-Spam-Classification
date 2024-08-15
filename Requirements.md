@@ -3,7 +3,6 @@ __Ensure you have the following Python packages installed:__ <br>
 
 
 pip install numpy pandas matplotlib seaborn nltk scikit-learn
-
 ---
 The required Python packages are:
 - __numpy:__ For numerical operations.
