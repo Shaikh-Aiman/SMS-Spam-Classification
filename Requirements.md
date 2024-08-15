@@ -1,8 +1,8 @@
 # Prerequisites
 __Ensure you have the following Python packages installed:__ <br>
 
+     pip install numpy pandas matplotlib seaborn nltk scikit-learn
 
-pip install numpy pandas matplotlib seaborn nltk scikit-learn
 ---
 The required Python packages are:
 - __numpy:__ For numerical operations.
@@ -21,7 +21,7 @@ The required Python packages are:
 - __warnings: For filtering out warnings during execution.
 - Additionally, ensure the NLTK data for stopwords and WordNet lemmatizer is downloaded: <br>
 
-'''python
-import nltk
-nltk.download("stopwords")
-nltk.download("wordnet")
+
+           - import nltk
+           - nltk.download("stopwords")
+           - nltk.download("wordnet")
