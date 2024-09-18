@@ -1,4 +1,6 @@
 # SMS-Spam-Classification
+![IMG_4702](https://github.com/user-attachments/assets/7637f875-8cce-4d0d-8f41-173172b80e18)
+
 This project focuses on classifying SMS messages as either spam or ham (non-spam) using machine learning techniques. The notebook walks through data preprocessing, feature extraction, model training, and evaluation.
 
 ### Project Structure
