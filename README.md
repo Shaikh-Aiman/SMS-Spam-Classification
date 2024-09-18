@@ -3,6 +3,8 @@
 
 This project focuses on classifying SMS messages as either spam or ham (non-spam) using machine learning techniques. The notebook walks through data preprocessing, feature extraction, model training, and evaluation.
 
+
+---
 ### Project Structure
 - __Data Loading and Exploration:__ The SMS dataset is loaded and basic exploratory analysis is conducted.
 - __Data Visualization:__ Visual representations of the dataset help in understanding the distribution of spam and ham messages.
